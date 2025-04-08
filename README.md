@@ -4,11 +4,15 @@ Welcome! This repository is a collection of frameworks, checklists, and processe
 
 ## What's Inside
 
-- ✅ **Practical onboarding checklists**
-- 🚨 **Clear escalation workflows**
-- 📦 **Lightweight delivery framework**
-- 🔁 **Rituals for team health and consistency**
-- 💬 **Tips for running effective retrospectives**
+- ✅ **Practical onboarding checklists** — A comprehensive guide for successfully onboarding new team members.
+- 🚨 **Escalation process templates** — Clear and actionable steps for escalating incidents and issues.
+- 🧑‍💼 **Stakeholder management strategies** — Templates and tools for managing key stakeholders and ensuring successful collaborations.
+- 🔄 **Delivery framework** — A lightweight framework designed to streamline the delivery process and improve efficiency.
+- 📊 **Team health metrics** — Tools to assess and improve team performance and well-being.
+- 💬 **Communication templates** — Ready-to-use templates for internal and external communication in service delivery.
+- 🛠️ **Incident response plan** — Structured approach to handling incidents and minimizing their impact.
+- 🗣 **Team rituals** — Best practices for team meetings, retrospectives, and continuous improvement.
+- 🎯 **ITIL practices** — Guidance and templates for aligning processes with ITIL® best practices.
 
 Whether you're leading support, delivery, or technical operations, this playbook is built to scale and adapt.
 
