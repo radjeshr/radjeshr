@@ -1,10 +1,10 @@
 # Team Lead Playbook
 
-Welcome! This repository is a collection of frameworks, checklists, and processes I've refined over the years while working as a **Support Manager**, **Delivery Manager**, and **Technical Project Manager**. It's designed to help build high-performing, engaged, and reliable teams — especially in fast-paced, customer-facing environments.
+Welcome! This repository contains frameworks, checklists, and processes refined over the years as a **Support Manager**, **Delivery Manager**, and **Technical Project Manager**. It’s designed to help build high-performing, engaged, and reliable teams, especially in fast-paced, customer-facing environments.
 
 ## What's Inside
 
-- ✅ **Practical onboarding checklists** — A comprehensive guide for successfully onboarding new team members.
+- ✅ **Practical onboarding checklists** — Comprehensive guides for effectively onboarding new team members.
 - 🚨 **Escalation process templates** — Clear and actionable steps for escalating incidents and issues.
 - 🧑‍💼 **Stakeholder management strategies** — Templates and tools for managing key stakeholders and ensuring successful collaborations.
 - 🔄 **Delivery framework** — A lightweight framework designed to streamline the delivery process and improve efficiency.
@@ -22,11 +22,23 @@ Whether you're leading support, delivery, or technical operations, this playbook
 
 ## 🚀 Featured Projects
 
-### [Team Lead Playbook](https://github.com/radjeshr/team-lead-playbook)
-A collection of tools and templates designed to help **Support Managers**, **Delivery Leads**, and **Customer Success teams** streamline their processes and improve team performance.
+- <strong>[Team Lead Playbook](https://github.com/radjeshr/team-lead-playbook)</strong> -  _A practical toolkit designed for **Support Managers**, **Delivery Leads**, and **Customer Success teams**, including:__
+  - ✅ Onboarding flows
+  - ⚠️ Escalation frameworks
+  - 💼 Stakeholder templates
+  - 🏥 Team health & retrospectives
+  - 📊 ITIL-aligned service planning
 
-### [ITIL v3 Frameworks](https://github.com/PacktPublishing/ITIL-v3-Foundations-Complete-ITIL-Exam-Preparation-Course)
-Study materials and frameworks for ITIL v3, ideal for improving **service management** and aligning teams to **best practices**.
+  _This playbook is based on real-world frameworks and helps teams thrive in **high-performance, customer-facing environments**._
+- <strong>[Open Leadership Framework](https://github.com/mozilla/open-leadership-framework)</strong> -  _A comprehensive framework for **open leadership**, detailing principles, practices, and skills to empower leaders in open communities.__
+- <strong>[ITIL Notes](https://github.com/mindsparkist/ITIL-Notes)</strong> -  _A repository dedicated to **ITIL** (Information Technology Infrastructure Library) concepts, providing structured notes and study materials.__
+- <strong>[ITIL 4 Foundation Course](https://github.com/ISaudI/ITIL-4-Foundation-Complete-Course-with-2-Practice-Exams)</strong> -  _A repository that accompanies a complete course on **ITIL 4 Foundation**, including practice exams and study guides._
+- <strong>[ITIL v3 Exam Preparation Course](https://github.com/PacktPublishing/ITIL-v3-Foundations-Complete-ITIL-Exam-Preparation-Course)</strong> -  _Materials for preparing for the **ITIL v3 Foundation exam**, including slides and practice exams.__
+- <strong>[Incident Management Framework](https://github.com/yourusername/incident-management-framework)</strong> -  _A generic **incident management workflow**, providing structured processes and templates for managing and responding to service disruptions, minimizing downtime, and restoring service:_
+  - 🔄 Incident categorization
+  - 📊 Impact analysis
+  - ⚡ SLA alignment
+  - 🚨 Communication templates for escalation
 
 ---
 
@@ -40,6 +52,6 @@ Study materials and frameworks for ITIL v3, ideal for improving **service manage
 
 ## 💼 Sharing Knowledge
 
-I'm passionate about **sharing knowledge** on building and managing teams, particularly in customer-facing and fast-paced environments. If you have any questions or want to share feedback on any of these frameworks, please feel free to reach out.
+I’m passionate about **sharing knowledge** on **team-building** and **managing high-performing teams**, especially in customer-facing and fast-paced environments. Feel free to reach out with any questions or feedback on these frameworks.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/radjeshramautar/)
