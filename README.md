@@ -1,5 +1,3 @@
-![Radjesh Ramautar Banner](./A_professional_banner_with_a_white_background_intr.png)
-
 # 👋 Hi, I’m Radjesh Ramautar
 
 **Support & Delivery Manager** | **Technical Account Leader** | **ITIL® Expert**  
