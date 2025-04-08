@@ -36,11 +36,7 @@ Whether you're leading support, delivery, or technical operations, this playbook
 - <strong>[ITIL Notes](https://github.com/mindsparkist/ITIL-Notes)</strong> -  _A repository dedicated to **ITIL** (Information Technology Infrastructure Library) concepts, providing structured notes and study materials.__
 - <strong>[ITIL 4 Foundation Course](https://github.com/ISaudI/ITIL-4-Foundation-Complete-Course-with-2-Practice-Exams)</strong> -  _A repository that accompanies a complete course on **ITIL 4 Foundation**, including practice exams and study guides._
 - <strong>[ITIL v3 Exam Preparation Course](https://github.com/PacktPublishing/ITIL-v3-Foundations-Complete-ITIL-Exam-Preparation-Course)</strong> -  _Materials for preparing for the **ITIL v3 Foundation exam**, including slides and practice exams.__
-- <strong>[Incident Management Framework](https://github.com/DigiBP/digibp-saentis)  </strong> -  _A generic **incident management workflow** implemented using **Camunda BPM**, demonstrating practical process management. This framework provides structured processes and templates for managing and responding to service disruptions, minimizing downtime, and restoring service:_
-  - 🔄 Incident categorization
-  - 📊 Impact analysis
-  - ⚡ SLA alignment
-  - 🚨 Communication templates for escalation
+- <strong>[Incident Management Framework](https://github.com/DigiBP/digibp-saentis)  </strong> -  _A generic **incident management workflow** implemented using **Camunda BPM**, demonstrating practical process management. This framework provides structured processes and templates for managing and responding to service disruptions, minimizing downtime, and restoring service.
 
 ---
 
