@@ -22,6 +22,8 @@ Whether you're leading support, delivery, or technical operations, this playbook
 
 ## 🚀 Featured Projects
 
+![Featured Projects Section](assets/Featured_Projects_Section.png)
+
 - <strong>[Team Lead Playbook](https://github.com/radjeshr/team-lead-playbook)</strong> -  _A practical toolkit designed for **Support Managers**, **Delivery Leads**, and **Customer Success teams**, including:__
   - ✅ Onboarding flows
   - ⚠️ Escalation frameworks
