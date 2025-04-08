@@ -33,5 +33,14 @@ A practical toolkit for support, delivery, and CSM leaders. Includes:
 
 ---
 
+### 🧠 Areas of Expertise
+
+![ITIL Expert](https://img.shields.io/badge/ITIL%20Expert-Certified-blueviolet?style=for-the-badge)
+![Support Leadership](https://img.shields.io/badge/Support%20Manager-Team%20Lead-informational?style=for-the-badge)
+![Delivery Management](https://img.shields.io/badge/Delivery-Execution%20Focused-success?style=for-the-badge)
+![CSM Friendly](https://img.shields.io/badge/Customer%20Success-People%20First-yellowgreen?style=for-the-badge)
+
+---
+
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/radjeshramautar/)
