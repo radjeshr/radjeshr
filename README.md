@@ -1,52 +1,51 @@
-# 👋 Hi, I’m Radjesh Ramautar
+# Radjesh Ramautar | Support & Delivery Manager
 
-**Support & Delivery Manager** | **Technical Account Leader** | **ITIL® Expert**  
-Focused on leading customer-centric teams that deliver value, resolve problems fast, and scale with purpose.
+👋 Hi, I'm Radjesh! I'm a **Support & Delivery Manager** focused on **building high-performing teams** that deliver **customer success** at scale. With extensive experience in **ITIL® service management** and leading cross-functional teams, I thrive in **high-stakes environments**.
 
----
-
-### 🧠 Areas of Expertise
-
-![ITIL Expert](https://img.shields.io/badge/ITIL%20Expert-Certified-blueviolet?style=for-the-badge)
-![Support Leadership](https://img.shields.io/badge/Support%20Manager-Team%20Lead-informational?style=for-the-badge)
-![Delivery Management](https://img.shields.io/badge/Delivery-Execution%20Focused-success?style=for-the-badge)
-![CSM Friendly](https://img.shields.io/badge/Customer%20Success-People%20First-yellowgreen?style=for-the-badge)
+## 📍 Areas of Expertise:
+- **ITIL® Expert** — Certified in ITIL® 4
+- **Team Management & Leadership**  
+- **Service Delivery & Support Management**  
+- **Customer Success & Retention**  
+- **Stakeholder & Escalation Management**
 
 ---
 
-### 📘 Featured Repository
+## 🚀 Featured Repositories
 
-🔹 [**Team Lead Playbook**](https://github.com/radjeshr/team-lead-playbook)  
-A practical toolkit for Support Managers, Delivery Leads, TAMs, and CSMs. Includes:
+### [Team Lead Playbook](https://github.com/radjeshr/team-lead-playbook)
+A practical toolkit for **Support Managers**, **Delivery Leads**, and **Customer Success teams**, including:
 - ✅ Onboarding flows
-- 🚨 Escalation frameworks
-- 🤝 Stakeholder templates
-- 📈 Team health & retrospective rituals
-- 🎯 ITIL-aligned service practices
+- ⚠️ Escalation frameworks
+- 💼 Stakeholder templates
+- 🏥 Team health & retrospectives
+- 📊 ITIL-aligned service planning
 
-> This playbook is based on real-world experience leading global teams in fast-paced, high-stakes environments.
-
----
-
-### 🎓 Certifications
-
-- **ITIL® Expert in IT Service Management**  
-  *Credential ID: 9980070074711228*  
-  [🔗 View on LinkedIn](https://www.linkedin.com/in/radjeshramautar/details/certifications/)
+This playbook is based on real-world frameworks and helps teams thrive in **high-performance, customer-facing environments**.
 
 ---
 
-### 🔍 What I’m Looking For
+## 🏅 Certifications
 
-I’m currently exploring new opportunities in:
-- ✅ Technical Account Management
-- ✅ Support & Service Delivery Leadership
-- ✅ Customer Success Strategy
-
-📫 If you're hiring or would like to collaborate — I'd love to connect.
+- **ITIL® Expert Certificate in IT Service Management**  
+  Credential ID: 9980070074711228  
+  [View on LinkedIn](https://www.linkedin.com/in/radjeshramautar/details/certifications/)
 
 ---
 
-### 🌐 Let’s Connect
+## 💼 What I'm Looking For
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/radjeshramautar/)
+I’m actively exploring new leadership opportunities in the following areas:
+- **Technical Account Management**
+- **Service Delivery & Support**
+- **Customer Success Strategy**
+
+If you're hiring or looking for someone who excels at **leading teams**, **streamlining operations**, and **delivering customer success**, let’s connect!
+
+---
+
+## 📬 Contact Me
+
+Feel free to reach out if you’d like to collaborate or discuss leadership strategies for support and delivery teams.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/radjeshramautar/)
