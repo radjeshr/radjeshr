@@ -1,51 +1,41 @@
-# Radjesh Ramautar | Support & Delivery Manager
+# Team Lead Playbook
 
-👋 Hi, I'm Radjesh! I'm a **Support & Delivery Manager** focused on **building high-performing teams** that deliver **customer success** at scale. With extensive experience in **ITIL® service management** and leading cross-functional teams, I thrive in **high-stakes environments**.
+Welcome! This repository is a collection of frameworks, checklists, and processes I've refined over the years while working as a **Support Manager**, **Delivery Manager**, and **Technical Project Manager**. It's designed to help build high-performing, engaged, and reliable teams — especially in fast-paced, customer-facing environments.
 
-## 📍 Areas of Expertise:
-- **ITIL® Expert** — Certified in ITIL® 4
-- **Team Management & Leadership**  
-- **Service Delivery & Support Management**  
-- **Customer Success & Retention**  
-- **Stakeholder & Escalation Management**
+## What's Inside
+
+- ✅ **Practical onboarding checklists**
+- 🚨 **Clear escalation workflows**
+- 📦 **Lightweight delivery framework**
+- 🔁 **Rituals for team health and consistency**
+- 💬 **Tips for running effective retrospectives**
+
+Whether you're leading support, delivery, or technical operations, this playbook is built to scale and adapt.
+
+> Let’s create clarity, ownership, and momentum — one play at a time.
 
 ---
 
-## 🚀 Featured Repositories
+## 🚀 Featured Projects
 
 ### [Team Lead Playbook](https://github.com/radjeshr/team-lead-playbook)
-A practical toolkit for **Support Managers**, **Delivery Leads**, and **Customer Success teams**, including:
-- ✅ Onboarding flows
-- ⚠️ Escalation frameworks
-- 💼 Stakeholder templates
-- 🏥 Team health & retrospectives
-- 📊 ITIL-aligned service planning
+A collection of tools and templates designed to help **Support Managers**, **Delivery Leads**, and **Customer Success teams** streamline their processes and improve team performance.
 
-This playbook is based on real-world frameworks and helps teams thrive in **high-performance, customer-facing environments**.
+### [ITIL v3 Frameworks](https://github.com/PacktPublishing/ITIL-v3-Foundations-Complete-ITIL-Exam-Preparation-Course)
+Study materials and frameworks for ITIL v3, ideal for improving **service management** and aligning teams to **best practices**.
 
 ---
 
 ## 🏅 Certifications
 
-- **ITIL® Expert Certificate in IT Service Management**  
+- **ITIL® v3 Expert Certificate in IT Service Management**  
   Credential ID: 9980070074711228  
   [View on LinkedIn](https://www.linkedin.com/in/radjeshramautar/details/certifications/)
 
 ---
 
-## 💼 What I'm Looking For
+## 💼 Sharing Knowledge
 
-I’m actively exploring new leadership opportunities in the following areas:
-- **Technical Account Management**
-- **Service Delivery & Support**
-- **Customer Success Strategy**
-
-If you're hiring or looking for someone who excels at **leading teams**, **streamlining operations**, and **delivering customer success**, let’s connect!
-
----
-
-## 📬 Contact Me
-
-Feel free to reach out if you’d like to collaborate or discuss leadership strategies for support and delivery teams.
+I'm passionate about **sharing knowledge** on building and managing teams, particularly in customer-facing and fast-paced environments. If you have any questions or want to share feedback on any of these frameworks, please feel free to reach out.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/radjeshramautar/)
