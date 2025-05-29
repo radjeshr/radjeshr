@@ -13,6 +13,7 @@ Welcome! This repository contains frameworks, checklists, and processes refined 
 - 🛠️ **Incident response plan** — Structured approach to handling incidents and minimizing their impact.
 - 🗣 **Team rituals** — Best practices for team meetings, retrospectives, and continuous improvement.
 - 🎯 **ITIL practices** — Guidance and templates for aligning processes with ITIL® best practices.
+- 📘 ITIL practices — Guidance and templates for aligning processes with ITIL® best practices.
 
 Whether you're leading support, delivery, or technical operations, this playbook is built to scale and adapt.
 
