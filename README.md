@@ -14,6 +14,8 @@ Welcome! This repository contains frameworks, checklists, and processes refined 
 - 🗣 **Team rituals** — Best practices for team meetings, retrospectives, and continuous improvement.
 - 🎯 **Remote Team Cohesion Framework** — Strategies for building trust, consistency, and engagement in distributed support teams.
 - 📘 **ITIL practices** — Guidance and templates for aligning processes with ITIL® best practices.
+- 🔄 **Plan-Do-Check-Act (PDCA)** — Framework to drive iterative improvement cycles in service teams. → pdca/plan-do-check-act.md
+- 📈 **Continual Service Improvement (CSI)** — Structured approach to identifying and closing performance gaps. → csi/continual-service-improvement.md
 
 Whether you're leading support, delivery, or technical operations, this playbook is built to scale and adapt.
 
