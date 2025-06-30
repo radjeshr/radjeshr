@@ -43,11 +43,12 @@ Whether you're leading support, delivery, or technical operations, this playbook
 
 ---
 
-## 🏅 Certifications
+## 📜 Certifications
 
-- **ITIL® v3 Expert Certificate in IT Service Management**  
-  Credential ID: 9980070074711228  
-  [View on LinkedIn](https://www.linkedin.com/in/radjeshramautar/details/certifications/)
+- **ITIL® Expert Certificate in IT Service Management (v3)**  (Credential ID: 9980070074711228 )
+- **EXIN ISFS – Information Security Foundation (ISO/IEC 27001:2022)**
+
+ 📄 [View full list of certifications →]((https://www.linkedin.com/in/radjeshramautar/details/certifications/)
 
 ---
 
